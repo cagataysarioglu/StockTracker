@@ -5,7 +5,7 @@
 # HH   HH  CC   CC  SS   SSs
 # HH   Hh   CCCCC    SSSSSS
 # ***********************************
-# hçsYazılım tarafından yazılmıştır.
+# Haluk Çağatay Sarıoğlu
 
 import sys
 from PyQt5 import QtWidgets
